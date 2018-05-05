@@ -1,0 +1,1 @@
+alert('You are currently on \n\n' + document.location.href +'\n\nNot like you didn\'t know tho :)');
