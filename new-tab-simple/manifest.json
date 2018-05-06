@@ -1,0 +1,18 @@
+{
+    "name": "New Tab",
+    "manifest_version": 2,
+    "description": "Creating a customized new tab :)",
+    "icons": { "128": "icon.png" },
+    "version": "1.0",
+    "permissions": [
+        "tabs", "<all_urls>"
+      ],
+    "chrome_url_overrides" : {
+      "newtab": "newtab.html"
+    },
+    "browser_action": {
+        "default_title": "New Tab",
+        "default_icon": "icon.png",
+        "default_popup": "popup.html"
+    }
+}
