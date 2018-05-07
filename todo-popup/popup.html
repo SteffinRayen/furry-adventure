@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link href='https://fonts.googleapis.com/css?family=Khand:400,600,300' rel='stylesheet' type='text/css'>
+    <link href='css/popup.css' rel='stylesheet' type='text/css'>
+    <link href='css/perfect-scrollbar.min.css' rel='stylesheet' type='text/css'>
+
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="js/perfect-scrollbar.jquery.min.js"></script>
+    <script type="text/javascript" src="js/jquery.ui.touch-punch.min.js"></script>
+    <script type="text/javascript" src="js/popup.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <div class="my-form">
+            <form class="todo-form">
+                <span class="icn-input"></span>
+                <input type="text" class="todo-input" placeholder="ToDo for the day?">
+                <button type="submit" class="todo-add not-focused">Add
+                    <span></span>
+                </button>
+            </form>
+        </div>
+        <div class="my-list" id="my-list">
+            <ul class="todo-list">
+                <li class="li-item ui-state-default">
+                    <span class="dragable"></span>
+                    <span class="checkbox"></span>
+                    <span class="text">Task 1</span>
+                    <span class="remove"></span>
+                </li>
+            </ul>
+            <ul class="clone-list" id="clone-list"></ul>
+        </div>
+        <footer>
+            <div class="my-func">
+                <button id="delete">
+                    <span class="d-parts1"></span>
+                    <span class="d-parts2"></span>
+                    <span class="d-parts3"></span>
+                </button>
+            </div>
+        </footer>
+    </div>
+</body>
+
+</html>
