@@ -1,26 +1,52 @@
 const quotes = [
-    {
-        quote: "\"The only sin is ignorance\"\n\n ~ Christopher Marlowe"
-    },
-    {
-        quote: "\"A man is his own easiest dupe, for what he wishes to be true he generally believes to be true\" ~ Demosthenes"
-    },
-    {
-        quote: "\"A lie can travel halfway around the world while the truth is putting on its shoes\" ~ Mark Twain"
-    },
-    {
-        quote: "\"Great minds discuss ideas; average minds discuss events; small minds discuss people\" ~ Eleanor Roosevelt"
-    },
-    {
-        quote: "\"If you have a garden and a library, you have everything you need\" ~ Marcus Tullius Cicero"
-    },
-    {
-        quote: "\"Truth comes out in wine\" ~ Pliny the Elder"
-    },
-    {
-        quote: "\"Everything in the universe is within you. Ask all from yourself\" ~ Rumi"
-    },
-    {
-        quote: "\"When I get a little money I buy books; and if any is left I buy food and clothes\" ~ Desiderius Erasmus"
-    }
+    {quote:"Moralistic is not moral. And as for truth -- well, it's like brown -- it's not in the spectrum. Truth is so generic."},
+    {quote:"Philosophy! Empty thinking by ignorant conceited men who think they can digest without eating!"},
+    {quote:"In philosophy if you aren't moving at a snail's pace you aren't moving at all."},
+    {quote:"Art is the final cunning of the human soul which would rather do anything than face the gods."},
+    {quote:"We shall be better prepared for the future if we see how terrible, how doomed the present is."},
+    {quote:"The sin of pride may be a small or a great thing in someone's life, and hurt vanity a passing pinprick, or a self-destroying or ever murderous obsession."},
+    {quote:"There is no substitute for the comfort supplied by the utterly taken-for-granted relationship."},
+    {quote:"He was a sociologist; he had got into an intellectual muddle early on in life and never managed to get out."},
+    {quote:"Bereavement is a darkness impenetrable to the imagination of the unbereaved."},
+    {quote:"Perhaps misguided moral passion is better than confused indifference."},
+    {quote:"The notion that one will not survive a particular catastrophe is, in general terms, a comfort since it is equivalent to abolishing the catastrophe."},
+    {quote:"Possibly, more people kill themselves and others out of hurt vanity than out of envy, jealousy, malice or desire for revenge."},
+    {quote:"All art is a struggle to be, in a particular sort of way, virtuous."},
+    {quote:"I think being a woman is like being Irish. Everyone says you're important and nice, but you take second place all the same."},
+    {quote:"I daresay anything can be made holy by being sincerely worshipped."},
+    {quote:"Writing is like getting married. One should never commit oneself until one is amazed at one's luck."},
+    {quote:"The priesthood is a marriage. People often start by falling in love, and they go on for years without realizing that love must change into some other love which is so unlike it that it can hardly be recognized as love at all."},
+    {quote:"A bad review is even less important than whether it is raining in Patagonia."},
+    {quote:"You will always move toward anyone who increases you and away from anyone who makes you less."},
+    {quote:"Each relationship nurtures a strength or weakness within you."},
+    {quote:"What you hear repeatedly you will eventually believe."},
+    {quote:"You will never change your life until you change something you do daily."},
+    {quote:"The secret of your future is hidden in your daily routine."},
+    {quote:"No love, no friendship can cross the path of our destiny without leaving some mark on it forever."},
+    {quote:"Most of us experience happiness when we are enjoying life and feeling free, enjoying the process and products of our creative and intellectual processes, enjoying the ecstasy of transcendent oneness with the universe."},
+    {quote:"If something can go wrong it will."},
+    {quote:"If there is a wrong way to do something, then someone will do it."},
+    {quote:"Cheerfulness, sir, is the principle ingredient in the composition of health."},
+    {quote:"It is impossible to walk rapidly and be unhappy."},
+    {quote:"I think in twenty years I'll be looked at like Bob Hope. Doing those president jokes and golf shit. It scares me."},
+    {quote:"I've always had confidence. It came because I have lots of initiative. I wanted to make something of myself."},
+    {quote:"The Law of Attraction attracts to you everything you need, according to the nature of your thought life. Your environment and financial condition are the perfect reflection of your habitual thinking. Thought rules the world."},
+    {quote:"We go where our vision is."},
+    {quote:"To be listened to is, generally speaking, a nearly unique experience for most people. It is enormously stimulating. It is small wonder that people who have been demanding all their lives to be heard so often fall speechless when confronted with one who gravely agrees to lend an ear. Man clamors for the freedom to express himself and for knowing that he counts. But once offered these conditions, he becomes frightened."},
+    {quote:"If you hire mediocre people, they will hire mediocre people."},
+    {quote:"We are to be shut out from men, and shut in with God."},
+    {quote:"The government can destroy wealth but it cannot create wealth, which is the product of labor and management working with creation."},
+    {quote:"I'm a nut, but not just a nut."},
+    {quote:"Depression, gloom, pessimism, despair, discouragement, these slay ten human beings to every one murdered by typhoid, influenza, diabetes or pneumonia. If tuberculosis is the great white plague, then fear is the great black plague."},
+    {quote:"Golf is the pursuit of the infinite."},
+    {quote:"I am not a literary man. I am a man of science, and I am interested in that branch of Anthropology which deals with the history of human speech."},
+    {quote:"Marriage should be a duet-when one sings, the other claps."},
+    {quote:"Some people are born to fatness. Others have to get there."},
+    {quote:"If the Nazis have really been guilty of the unspeakable crimes circumstantially imputed to them, then -- let us make no mistake -- pacifism is faced with a situation with which it cannot cope. The conventional pacifist conception of a reasonable or generous peace is irrelevant to this reality."},
+    {quote:"In fighting and in everyday life you should be determined though calm. Meet the situation without tenseness yet not recklessly, your spirit settled yet unbiased. An elevated spirit is weak and a low spirit is weak. Do not let the enemy see your spirit."},
+    {quote:"It is the moment of evolutionary truth for the race, and what man does with that moment will be more important than the events of the previous millenium."},
+    {quote:"The functions of an executive are to create and enforce policies rather than working out problems resulting from such policies."},
+    {quote:"The greatest admiration gives rise not to words, but to silence."},
+    {quote:"The sun was shining in my eyes, and I could barely see to do the necessary task that was allotted me. Resentment of the vivid glow I started to complain. When all at once upon the air I heard the blind man's cane."},
+    {quote:"How glorious it is -- and also how painful -- to be an exception."}
 ];

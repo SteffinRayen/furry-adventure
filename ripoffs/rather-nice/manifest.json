@@ -1,0 +1,22 @@
+{
+    "name": "Rip Off",
+    "manifest_version": 2,
+    "description": "Trying to replicate an already existing new tab extension",
+    "icons": { "128": "icon.png" },
+    "version": "1.0",
+    "background": {
+        "persistent": false,
+        "scripts": ["background.js"]
+    },
+    "permissions": [
+        "tabs", "<all_urls>"
+      ],
+    "chrome_url_overrides" : {
+      "newtab": "index.html"
+    },
+    "browser_action": {
+        "default_title": "Rip Off",
+        "default_icon": "icon.png",
+        "default_popup": "popup.html"
+    }
+}
