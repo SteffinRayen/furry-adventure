@@ -8,15 +8,11 @@
         "persistent": false,
         "scripts": ["background.js"]
     },
-    "permissions": [
-        "tabs", "<all_urls>"
-      ],
     "chrome_url_overrides" : {
       "newtab": "index.html"
     },
     "browser_action": {
         "default_title": "Rip Off",
-        "default_icon": "icon.png",
-        "default_popup": "popup.html"
+        "default_icon": "icon.png"
     }
 }
