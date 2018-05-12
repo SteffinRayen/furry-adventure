@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "Bible App",
+    "description": "A new tab with bible verse",
+    "icons": { "128": "icon.png" },
+    "version": "1",
+    "author": "Steffin Rayen",
+    "browser_action": {
+        "default_icon": "icon.png",
+        "default_title": "Bible Tab"
+    },
+    "chrome_url_overrides": {
+        "newtab": "newTab.html"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+}
